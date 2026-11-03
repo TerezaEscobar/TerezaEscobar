@@ -1,10 +1,10 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Tereza Escobar</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Tereza Escobar</h1>
 
 
 <img src="banner.gif.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ 💻 Fullstack Developer & Designer. I'm passionate about building complete digital experiences—from UI/UX design and prototyping to developing robust mobile and web applications. I love turning ideas into functional, visually appealing products. </em>
+<em> 💻 Fullstack Developer & Designer. I'm passionate about building complete digital experiences—from UI/UX design and prototyping to developing robust mobile and web applications. I love turning ideas into functional, visually appealing products. </em>
 
 
 ## 📊 GitHub Stats & Trophies
@@ -48,7 +48,7 @@
 
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="tereza10070914@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -61,5 +61,3 @@
 <div align="center">
   <!---->
 </div>
-
-<p align="center"><sub>Tereza Escobar · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
