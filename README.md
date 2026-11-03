@@ -1,10 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Tereza Escobar</h1>
 
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1117385357567849947" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>✏️ 💻 Fullstack Developer & Designer. I'm passionate about building complete digital experiences—from UI/UX design and prototyping to developing robust mobile and web applications. I love turning ideas into functional, visually appealing products. </em>
 
 
 ## 📊 GitHub Stats & Trophies
