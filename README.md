@@ -1,63 +1,83 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Tereza Escobar</h1>
 
-
 <img src="banner.gif.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 <em> 💻 Fullstack Developer & Designer. I'm passionate about building complete digital experiences—from UI/UX design and prototyping to developing robust mobile and web applications. I love turning ideas into functional, visually appealing products. </em>
+> Developer | Problem Solver
 
+- 📫 How to reach me [tereza10070914@gmail.com](mailto:tereza10070914@gmail.com)
+- 🎓 Certified in Software Engineering with AI
+- 🏫 Currently studying Systems Engineering at university
+- 🗣️ Languages: 🇪🇸 Spanish (Native) | EN English (Advanced) | 🇫🇷 French (Intermediate)
+---
+## 🛠️ | Languages and Frameworks
 
-## 📊 GitHub Stats & Trophies
+<table style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td style="border: none; background-color: transparent; padding: 8px; font-weight: bold; vertical-align: middle; width: 120px;">Backend:</td>
+    <td style="border: none; background-color: transparent; padding: 8px;">
+      <table style="border: none; border-collapse: collapse; margin: 0; padding: 0;"><tr style="border: none; background: transparent;"><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Node.js</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Python</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>PHP</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Java</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>C#</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>.NET</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Laravel</b></sub></td></tr></table>
+    </td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td style="border: none; background-color: transparent; padding: 8px; font-weight: bold; vertical-align: middle; width: 120px;">Frontend:</td>
+    <td style="border: none; background-color: transparent; padding: 8px;">
+      <table style="border: none; border-collapse: collapse; margin: 0; padding: 0;"><tr style="border: none; background: transparent;"><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>React</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Bootstrap</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Tailwind</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Next.js</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>HTML5</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>CSS3</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>JavaScript</b></sub></td></tr></table>
+    </td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td style="border: none; background-color: transparent; padding: 8px; font-weight: bold; vertical-align: middle; width: 120px;">DevOps & Tools:</td>
+    <td style="border: none; background-color: transparent; padding: 8px;">
+      <table style="border: none; border-collapse: collapse; margin: 0; padding: 0;"><tr style="border: none; background: transparent;"><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Docker</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>IntelliJ</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>VS Code</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>VS 2022</b></sub></td></tr></table>
+    </td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td style="border: none; background-color: transparent; padding: 8px; font-weight: bold; vertical-align: middle; width: 120px;">Database:</td>
+    <td style="border: none; background-color: transparent; padding: 8px;">
+      <table style="border: none; border-collapse: collapse; margin: 0; padding: 0;"><tr style="border: none; background: transparent;"><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>MySQL</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Workbench</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>SQL Server</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>SQLite</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>PostgreSQL</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>MongoDB</b></sub></td></tr></table>
+    </td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td style="border: none; background-color: transparent; padding: 8px; font-weight: bold; vertical-align: middle; width: 120px;">Version Control:</td>
+    <td style="border: none; background-color: transparent; padding: 8px;">
+      <table style="border: none; border-collapse: collapse; margin: 0; padding: 0;"><tr style="border: none; background: transparent;"><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>GitHub</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>Git</b></sub></td></tr></table>
+    </td>
+  </tr>
+    <tr style="border: none; background-color: transparent;">
+    <td style="border: none; background-color: transparent; padding: 8px; font-weight: bold; vertical-align: middle; width: 120px;">AI & ML:</td>
+    <td style="border: none; background-color: transparent; padding: 8px;">
+      <table style="border: none; border-collapse: collapse; margin: 0; padding: 0;"><tr style="border: none; background: transparent;"><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://www.vectorlogo.zone/logos/ibm/ibm-ar21.svg" width="50" height="40" style="display: block; margin: 0 auto; object-fit: contain; filter: invert(1) brightness(2);"/><br><sub><b>IBM Watson</b></sub></td><td style="border: none; padding: 8px 4px; text-align: center; background-color: #2d333b; border-radius: 10px; width: 60px;"><img src="https://cdn.simpleicons.org/n8n/white" width="40" height="40" style="display: block; margin: 0 auto; object-fit: contain;"/><br><sub><b>n8n</b></sub></td></tr></table>
+    </td>
+  </tr>
+</table>
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terezaescobar&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="terezaescobar's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=terezaescobar&theme=nightowl&hide_border=true&cache_seconds=86400" alt="terezaescobar's GitHub Streak" width="49%" />
+  <!-- Racha (esta ya te funciona) -->
+  <img src="https://streak-stats.demolab.com/?user=terezaescobar&theme=nightowl&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terezaescobar&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <!-- Estadísticas Generales (Servidor espejo alternativo) -->
+  <img src="https://github-readme-stats.shion.dev/api?username=terezaescobar&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  
+  <!-- Lenguajes (Servidor espejo alternativo) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=terezaescobar&layout=compact&theme=nightowl&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=terezaescobar&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tereza Escobar's GitHub Trophies" />
+  <!-- Gráfico de Actividad (Servidor alternativo) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terezaescobar&theme=nightowl&hide_border=true" alt="Activity Graph" width="90%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=terezaescobar&theme=nightowl&radius=10" alt="terezaescobar's Activity Graph" />
-</p>
-
-
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="tereza10070914@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
+  <a href="mailto:tereza10070914@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
-
-<div align="center">
-  <!---->
-</div>
